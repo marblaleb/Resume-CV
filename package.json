@@ -1,0 +1,22 @@
+{
+  "name": "marcoblanco",
+  "version": "1.0.0",
+  "description": "This is the resume of Marco Blanco.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasdavis/resume.git"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "Marco Blanco",
+  "license": "ISC",
+  "bugs": {
+    
+  }
+
+}

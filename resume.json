@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "theme": "elegant"
+  },
+  "basics": {
+    "name": "Marco Blanco",
+    "label": "Web Developer",
+    "image": "https://avatars0.githubusercontent.com/u/416209?s=460&u=38f220a2c9c658141804f881c334c594eb1642ac&v=4",
+    "summary": "Desarrollador web Fullstack con formación previa ",
+    "email": "marcoblaleb@gmail.com",
+    "location": {
+      "city": "Sevilla",
+      "countryCode": "ES"
+    },
+    "profiles": [
+    
+      {
+        "url": "https://github.com/marblaleb",
+        "username": "marblaleb",
+        "network": "github"
+      }
+    ]
+  },
+  "education": [
+    {
+      "endDate": "2015-12-09",
+      "startDate": "2016-02-06",
+      "area": "Ingeniería del Software (incompleta)",
+      "studyType": "Grado",
+      "institution": "Universidad de Sevilla"
+    },
+    {
+      "endDate": "2016-15-09",
+      "startDate": "2019-20-06",
+      "area": "Comunicación Audiovisual",
+      "studyType": "Grado",
+      "institution": "Universidad Complutense de Madrid"
+    },
+    {
+      "endDate": "2020-15-09",
+      "startDate": "2024-20-06",
+      "area": "Filosofía",
+      "studyType": "Grado",
+      "institution": "UNED"
+    },
+
+    {
+      "endDate": "2022-15-069",
+      "startDate": "2024-20-06",
+      "area": "Desarrollo de Aplicaciones Web",
+      "studyType": "Grado Superior",
+      "institution": "I.E.S Velázquez"
+    }
+  ],
+  "references": [
+    {
+      "reference": "Ha desempenado trabajos de desarollo web dentro de nuestro departamento de Tecnología y Desarrollo. Desde el momento que se unió al equipo, pudimos notar que es un chico eficiente y capaz de entregar lo mejor de sí. Destaca por sus cualidades como la dedicación, constancia, organización y capacidad de trabajar en equipo.",
+      "name": "Atrebo Software"
+    }
+  
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "HTML / JSX",
+        "SCSS / CSS",
+        "Javascript / Typescript",
+        "Angular"
+      ],
+      "level": "Junior",
+      "name": "Frontend"
+    },
+    {
+      "keywords": ["Spring", ".NET CORE", "Java", "C#"],
+      "level": "Junior",
+      "name": "Backend"
+    },
+    {
+      "keywords": ["AWS"],
+      "level": "Junior",
+      "name": "Devops"
+    }
+  ],
+  
+  "work": [
+    {
+      "summary": "Desarrollo de tareas de creación de módulo y mantenimiento de la aplicación para empresas de Telecomunicaciones TREE CUATRO, de la que participan clientes como Vodafone, Telefónica o Telenor",
+      "website": "https://tokenized.com/",
+      "name": "Atrebo Software Fullstack Developer",
+      "location": "Sevilla",
+      "position": "Fullstack Developer",
+      "startDate": "2024-01-01",
+      "highlights": ["C#", "Javascript", ".NET", "Product"]
+    },
+    {
+      "summary": "Desarrollo de una red social de consumo y creación de eventos sociales que permite registro y comunicación a través de foros",
+      "website": "https://github.com/marblaleb/WeMeet-PI",
+      "name": "WeMeet",
+      "location": "Sevilla",
+      "position": "Fullstack Developer",
+      "startDate": "2024-03-01",
+      "highlights": [
+        "Angular, Spring, HTML5, CSS3, Styled Components"
+        
+      ]
+    },
+
+    {
+      "summary": "Desarrollo de portfolios interactivos con .NET y Angular",
+      "website": "https://github.com/marblaleb/WeMeet-PI",
+      "name": "Webs para particulares",
+      "location": "Sevilla",
+      "position": "Fullstack Developer",
+      "startDate": "2024-03-01",
+      "highlights": [
+        "Angular, .NET, Styled Components"
+        
+      ]
+    }
+    
+  ],
+  "interests": [
+    {
+      "name": "IA"
+    },
+    {
+      "name": "Cine"
+    },
+    {
+      "name": "Filosofía"
+    },
+    {
+      "name": "Ciberseguridad"
+    },
+    {
+      "name": "Diseno Web"
+    }
+  ]
+}
